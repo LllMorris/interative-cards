@@ -1,1 +1,1 @@
-# interactive-photo-cards
+# interactive-cards
